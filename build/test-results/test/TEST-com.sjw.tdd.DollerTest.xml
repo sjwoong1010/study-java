@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.sjw.tdd.DollerTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-06-03T06:08:15" hostname="402-05" time="0.084">
+<testsuite name="com.sjw.tdd.DollerTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-06-03T06:24:48" hostname="402-05" time="0.088">
   <properties/>
-  <testcase name="testMultiplication()" classname="com.sjw.tdd.DollerTest" time="0.084"/>
+  <testcase name="testMultiplication()" classname="com.sjw.tdd.DollerTest" time="0.088"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
